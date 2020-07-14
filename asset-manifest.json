@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/checkpoit-jsx/static/css/main.6be58eea.chunk.css",
+    "main.js": "/checkpoit-jsx/static/js/main.adfbe50e.chunk.js",
+    "main.js.map": "/checkpoit-jsx/static/js/main.adfbe50e.chunk.js.map",
+    "runtime-main.js": "/checkpoit-jsx/static/js/runtime-main.8693e856.js",
+    "runtime-main.js.map": "/checkpoit-jsx/static/js/runtime-main.8693e856.js.map",
+    "static/js/2.89a9fd65.chunk.js": "/checkpoit-jsx/static/js/2.89a9fd65.chunk.js",
+    "static/js/2.89a9fd65.chunk.js.map": "/checkpoit-jsx/static/js/2.89a9fd65.chunk.js.map",
+    "index.html": "/checkpoit-jsx/index.html",
+    "precache-manifest.1f2a8ca06b6961c1e8dd28779b1eae3c.js": "/checkpoit-jsx/precache-manifest.1f2a8ca06b6961c1e8dd28779b1eae3c.js",
+    "service-worker.js": "/checkpoit-jsx/service-worker.js",
+    "static/css/main.6be58eea.chunk.css.map": "/checkpoit-jsx/static/css/main.6be58eea.chunk.css.map",
+    "static/js/2.89a9fd65.chunk.js.LICENSE.txt": "/checkpoit-jsx/static/js/2.89a9fd65.chunk.js.LICENSE.txt",
+    "static/media/image2.png": "/checkpoit-jsx/static/media/image2.a770d88c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8693e856.js",
+    "static/js/2.89a9fd65.chunk.js",
+    "static/css/main.6be58eea.chunk.css",
+    "static/js/main.adfbe50e.chunk.js"
+  ]
+}
