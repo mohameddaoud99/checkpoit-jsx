@@ -1,0 +1,28 @@
+.title{
+    letter-spacing: 5px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 700px;
+    height: 170px;
+    position:center;
+}
+.d1{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 1400px;
+    height: 170px;
+    position:center;
+}
+.im1{
+    width: 1400px;
+}
+.im2{
+    width: 1400px;
+    margin-bottom: 50px;
+
+}
+.vid1{
+    width: 1400px;
+
+}

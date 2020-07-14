@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import image2 from "./image2.png";
+import "./style.css"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <div className="d1" style={{border: 'solid 1px black'}} >  
+ 
+    	<h1 className="title red">Welcome My Lovers</h1> 
+ 
+        	<br/>  
+ 
+            <img src="/image1.jpg"  alt="image de quelque chose" className="im1"/> <br /> 
+ 
+             	  
+               <video width="320" height="240" controls className="vid1">  
+ 
+               <source src="/myVideo.mp4" type="video/mp4" /> 
+        
+           </video> 
+           <img src={image2} className="im2" />
 
+
+ </div>  
+ )
+}
 export default App;
